@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/profile.png) right bottom no-repeat;
+    /*background: url(../img/profile.png) right bottom no-repeat;*/
     background-size: contain;
 }
 
@@ -360,12 +360,12 @@ a:focus {
     padding: 15px 0;
     color: #00b87b;
     font-size: 20px;
-    background: #222222;
+    background: #ffffff;
     border-radius: 0;
 }
 
 .large-btn .btn:last-child {
-    color: #222222;
+    color: #ffffff;
     background: #00b87b;
 }
 
